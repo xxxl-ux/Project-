@@ -35,9 +35,9 @@ char mazeLevel2_template[HEIGHT][WIDTH + 1] = {
 char mazeLevel3_template[HEIGHT][WIDTH + 1] = {
     "##########",
     "# G # #  #",
-    "## ## # ##",
-    "# # # #  #",
-    "# E # # M#",
+    "##  # # ##",
+    "#    #   #",
+    "# ##E## M#",
     "##########"
 };
 
@@ -234,4 +234,5 @@ int main() {
 
     return 0;
 }
+
 ```
